@@ -1,6 +1,5 @@
 package hello.servlet.web.frontcontroller.v1;
 
-import hello.servlet.web.frontcontroller.ControllerV1;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
